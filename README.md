@@ -1,8 +1,8 @@
-## Hi there, I'm bla24! 👋
+## Hi there, I'm AFFOLABI BLAISE HOUNSOU! 👋
 
 ### 🙋 About Me
 
-I'm a passionate developer always looking to learn and grow. I enjoy building meaningful projects and contributing to the tech community.
+I'm a passionate cybersecurity and BlockChain always looking to learn and grow. I enjoy building meaningful projects and contributing to the tech community.
 
 ---
 
