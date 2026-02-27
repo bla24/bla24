@@ -1,14 +1,7 @@
 ## Hi there, I'm AFFOLABI BLAISE HOUNSOU! 👋
 
 ### 🙋 About Me
-I'm passionate about **Cybersecurity** and **Blockchain**, always eager to learn, grow, and contribute to the tech community.
-
----
-
-### 🔭 What I Do
-- 💻 I build software applications and work on personal projects
-- 🌐 I'm interested in web development, open source, and solving real-world problems
-- 🤝 I'm open to collaborating on interesting projects
+I'm passionate about **Cybersecurity**, **Blockchain**, and **AI**, always eager to learn, grow, and contribute to the tech community.
 
 ---
 
@@ -27,6 +20,7 @@ I'm passionate about **Cybersecurity** and **Blockchain**, always eager to learn
 | Cybersecurity (Pentesting) | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit                   | Intermediate |
 | Networking                 | TCP/IP, DNS, HTTP/HTTPS (fundamentals)                                | Intermediate |
 | Programming                | Python, JavaScript, HTML/CSS                                          | Intermediate |
+| Embedded / Electronics      | Embedded C, Arduino, Deep Purple board                                | Intermediate |
 | Web Security               | OWASP Top 10 (fundamentals), basic vulnerability testing              | Intermediate |
 | Version Control            | Git, GitHub                                                           | Intermediate |
 | OS & Tools                 | Linux, Bash/Terminal, VS Code                                         | Intermediate |
@@ -35,10 +29,8 @@ I'm passionate about **Cybersecurity** and **Blockchain**, always eager to learn
 ---
 
 ### 🚀 What I Want to Achieve
-- 🎯 Build impactful open-source projects that help the community
-- 📈 Grow as a developer and reach an advanced level in my areas of expertise
-- 🌍 Contribute to meaningful projects that make a difference
-- 💡 Turn ideas into real, working products
+- Become a **Cybersecurity** and **Blockchain** professional
+- Build solutions that combine **AI** with security (e.g., threat detection, SOC automation, secure systems)
 
 ---
 
@@ -46,5 +38,4 @@ I'm passionate about **Cybersecurity** and **Blockchain**, always eager to learn
 - GitHub: [@bla24](https://github.com/bla24)
 
 ---
-
 ⭐ *Feel free to check out my repositories and don't hesitate to reach out!*
