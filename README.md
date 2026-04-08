@@ -15,16 +15,16 @@ I'm passionate about **Cybersecurity**, **Blockchain**, and **AI**, always eager
 
 ### 🛠️ Skills & Level
 
-| Domain                      | Technologies / Tools                                                  | Level        |
-|----------------------------|------------------------------------------------------------------------|--------------|
-| Cybersecurity (Pentesting) | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit                   | Intermediate |
-| Networking                 | TCP/IP, DNS, HTTP/HTTPS (fundamentals)                                | Intermediate |
-| Programming                | Python, JavaScript, HTML/CSS                                          | Intermediate |
-| Embedded / Electronics      | Embedded C, Arduino, Deep Purple board                                | Intermediate |
-| Web Security               | OWASP Top 10 (fundamentals), basic vulnerability testing              | Intermediate |
-| Version Control            | Git, GitHub                                                           | Intermediate |
-| OS & Tools                 | Linux, Bash/Terminal, VS Code                                         | Intermediate |
-| Blockchain                 | Blockchain fundamentals (learning)                                    | Beginner     |
+| Domain                      | Technologies / Tools                                                  
+|----------------------------|-----------------------------------------------------------
+| Cybersecurity (Pentesting) | Kali Linux, Nmap, Wireshark, Burp Suite, Metasploit                   
+| Networking                 | TCP/IP, DNS, HTTP/HTTPS (fundamentals)                                
+| Programming                | Python, JavaScript, HTML/CSS                                          
+| Embedded / Electronics      | Embedded C, Arduino, Deep Purple board                               
+| Web Security               | OWASP Top 10 (fundamentals), basic vulnerability testing              
+| Version Control            | Git, GitHub                                                         
+| OS & Tools                 | Linux, Bash/Terminal, VS Code                                         
+| Blockchain                 | Blockchain fundamentals (learning)                                   
 
 ---
 
