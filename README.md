@@ -36,6 +36,11 @@ I'm passionate about **Cybersecurity**, **Blockchain**, and **AI**, always eager
 
 ### 📫 How to Reach Me
 - GitHub: [@bla24](https://github.com/bla24)
+- RootMe: [@blÖ!üs](https://www.root-me.org/blÖ!üs) 
+- TryHackMe: [@BLAISE](https://tryhackme.com/p/BLAISE?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=6e2513c449ee&utm_source=copy&share_date=2026-11-12&sharerId=65c1509dccfd0adff01c8686)
+- HackTheBox: [@BLAISE04](https://profile.hackthebox.com/profile/01a0c82a-9216-7137-ac7e-40164f6ecf72?utm_medium=copy_url)
+- LinkeIn: [@baise-hounsou](www.linkedin.com/in/blaise-hounsou-5a8a89343)
+
 
 ---
 ⭐ *Feel free to check out my repositories and don't hesitate to reach out!*
